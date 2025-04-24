@@ -1,6 +1,6 @@
 # Experiment-8
-# NAME: Dheena Darshini Karthik Dheepan
-# REGNO: 212223240030
+# NAME:lokesh m
+# REGNO: 212224040173
 ## Purpose: 
 This document describes the software requirements and specification (SRS) for an automated
 teller machine (ATM) network. The document is intended for the customer and the developer
